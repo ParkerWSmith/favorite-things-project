@@ -1,7 +1,63 @@
 .container {
-    background-image: url(../image/);
+    background-image: url(../image/01.jpg);
     width: auto;
     height: auto;
     padding-top: 20px;
     padding-bottom: 20px;
+}
+
+.row {
+    margin-top: 100px;
+    width: 80%;
+    margin: 10px;
+    margin-left: 100px;
+    background-color: black;
+}
+
+#favoritethingbutton {
+    display: block;
+    font-family: Arial, Sans-serif;
+    font-size: 32px;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    margin-left: 120px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 80%;
+}
+
+ul {
+    list-style-type: square;
+    font-family: Arial, sans-serif;
+}
+
+iframe {
+    display: block;
+    width: 440px;
+    height: 300px;
+    margin: auto;
+    align-content: center;
+}
+
+h2 {
+    font-family: Arial, Sans-serif;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    margin: auto;
+    margin-bottom: 20px;
+    display: block;
+}
+
+figcaption {
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: white;
+    padding: 5px;
+    padding-bottom: 10px;
+    font-family: Arial, Sans-serif;
 }
