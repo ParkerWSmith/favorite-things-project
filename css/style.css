@@ -58,6 +58,7 @@ figcaption {
 p {
     color: white;
     padding: 5px;
-    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
     font-family: Arial, Sans-serif;
 }
